@@ -1,0 +1,14 @@
+{
+  "name": "docker_node_web_app",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "author": "Jo Michaelis <mail@jomichaelis.de>",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "dotenv": "^16.0.3"
+  }
+}
